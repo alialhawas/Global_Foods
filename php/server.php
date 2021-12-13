@@ -4,9 +4,6 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // collect value of input field
     $name = $_POST['name'];
-    # $number = $_POST['number'];
-    # $date = $_POST['date'];
-    # $additional = $_POST['additional_food'];
     $message = $_POST['message'];
 
     if (empty($name) || empty($message) ) {
