@@ -3,7 +3,7 @@ We presented the distinctive dishes of several cultures, as well as the most pop
 
 # Project Description
 
-Different foods describe the world, and each culture has its own distinct cuisine. in our project , we've gathered some of the world's most famous dishes and presented them in a unique way. we used what we learned so far on HTML, CSS , PHP and finally java Script
+each culture has its own distinct cuisine. in our project , we've gathered some of the world's most famous dishes and presented them in a unique way. we used what we learned so far on HTML, CSS , PHP and finally java Script
 
 
 # Credits
