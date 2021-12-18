@@ -9,5 +9,7 @@ each culture has its own distinct cuisine. in our project , we've gathered some 
 # Credits
 
 Yasser abdulmohsen Alburaidi : CS Student at Imam Muhammad bin Saud Islamic University
+
 Anas Waleed Bajunayd : CS Student at Imam Muhammad bin Saud Islamic University
+
 Ali Khalifa Alhawas : CS Student at Imam Muhammad bin Saud Islamic University 
